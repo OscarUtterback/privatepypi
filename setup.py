@@ -11,6 +11,6 @@ setup(
         "iadmodels": ["data/*.txt"]
     },
     install_requires=[
-        'tensorflow',
+        'numpy',
     ]
 )
